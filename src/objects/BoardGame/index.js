@@ -1,4 +1,4 @@
-import './styles.css';
+import './style.css';
 import CardGame from '../../components/CardGame';
 
 const BoardGame = (amountCards) => {
